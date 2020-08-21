@@ -1,6 +1,6 @@
 # Proffy
 
-## Uma aplicação mobile e web usando mobile first, desenvolvido em um evento da rocketseat.
+## Uma aplicação mobile e web usando mobile first, desenvolvida em um evento da rocketseat usando TypeScript.
 
 ---
 
